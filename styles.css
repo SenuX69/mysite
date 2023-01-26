@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    text-align: center;
+    background-color: #DAE2B6;
+}
+.background-img{
+    width: 1345px;
+    height: 680px;
+    display: inline-block;
+}
+.me{
+    position: relative;
+    display: inline-block;
+    bottom: 620px;
+    font-size: 70px;
+    font-family: 'Arizonia', cursive;
+}
+.web{
+    position: relative;
+    bottom: 690px;
+    font-size: 20px;
+}
+.me-img{
+    width: 200px;
+    border-radius: 100% ;
+    position:relative;
+    bottom: 670px;
+}
+.hello{
+    font-family: 'Arizonia', cursive;
+    font-family: 'Inconsolata', monospace;
+    position: relative;
+    bottom: 660px;
+    color: #ffffff;
+
+}
+.intro1{
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 660px;
+}
+
+.skill{
+    position: relative;
+    color: #225B3A;
+    bottom: 600px;
+}
+.code{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 610px;
+    right: 350px;
+}
+.game{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 670px;
+    left: 350px;
+}
+.para1{
+    text-align: center;
+    color: #669D58;
+    margin-left: 450px;
+    margin-right: 450px;
+    position: relative;
+    bottom: 780px;
+}
+.para2{
+    text-align: center;
+    color: #669D58;
+    margin-left: 450px;
+    margin-right: 450px;
+    position: relative;
+    bottom: 810px;
+}
+.topic1{
+    position: relative;
+    bottom: 570px;
+    right: 100px;
+}
+.topic2{
+    position: relative;
+    bottom: 600px;
+    left: 100px;
+}
